@@ -1,5 +1,5 @@
-# KPFM2 ~ READ ME and ANALYSIS GUIDE:
-R model code for the Krill-Predator-Fishery Model, used to assess trade-offs between predators and a fishery both focused on a forage species (currently focused on krill in the Southern Ocean). Code here specifically for reuslts in Klein et al. 2018 “Climate-change impacts on prey increase risks for predators in the Scotia Sea”, published in PLOS ONE.
+# KPFM2 and CLIMATE CHANGE ~ READ ME and ANALYSIS GUIDE:
+R model code for the Krill-Predator-Fishery Model, used to assess trade-offs between predators and a fishery both focused on a forage species (currently focused on krill in the Southern Ocean). Code here specifically for results in Klein et al. 2018 “Climate-change impacts on prey increase risks for predators in the Scotia Sea”, published in PLOS ONE (https://doi.org/10.1371/journal.pone.0191011).
 
 
 This file contains information on the (1) data input files, (2) code for analysis, and (3) steps in analysis used to obtain results in Klein et al., “Climate-change impacts on prey increase risks for predators in the Scotia Sea”. The analysis uses functions coded in [R] programming language, which is available for free download at https://www.r-project.org/ (<em>NB</em>: this research used RStudio, https://www.rstudio.com/, to access the R software).
